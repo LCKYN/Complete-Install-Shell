@@ -1,0 +1,9 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.defaultDateFormat": null,
+  "git.autofetch": true,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": null,
+  "terminal.integrated.fontFamily": "meslolgs nf"
+}
