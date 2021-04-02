@@ -29,3 +29,5 @@ source ~/.bash_profile
 alias l="ls -aGl"
 alias p="pwd"
 alias c="code ."
+
+alias .="cd .."
