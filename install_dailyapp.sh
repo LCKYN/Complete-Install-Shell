@@ -4,3 +4,5 @@ brew install --cask visual-studio-code
 brew install node
 
 brew install -cask postman
+
+brew install nmap
