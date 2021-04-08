@@ -6,3 +6,5 @@ brew install node
 brew install -cask postman
 
 brew install nmap
+
+brew install tree
