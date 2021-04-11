@@ -1,0 +1,32 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.defaultDateFormat": null,
+    "git.autofetch": true,
+    // "editor.tabSize": 2,
+    "editor.fontLigatures": null,
+    "terminal.integrated.fontFamily": "meslolgs nf",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "jupyter.alwaysTrustNotebooks": true,
+    "editor.tokenColorCustomizations": null,
+    "workbench.colorTheme": "One Dark Darker",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    
+}
