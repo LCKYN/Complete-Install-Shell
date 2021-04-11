@@ -10,3 +10,5 @@ brew install nmap
 brew install tree
 
 brew install exa
+
+brew install jupyter
