@@ -116,4 +116,4 @@ if [ -x "$(command -v exa)" ]; then
 fi
 
 
-source ~/.bash_profile
+# source ~/.bash_profile
