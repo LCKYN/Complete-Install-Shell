@@ -117,3 +117,5 @@ fi
 
 
 # source ~/.bash_profile
+
+alias jn="/Users/lckyn/opt/anaconda3/bin/jupyter_mac.command"
