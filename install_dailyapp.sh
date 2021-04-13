@@ -11,4 +11,6 @@ brew install tree
 
 brew install exa
 
-brew install jupyter
+# brew install jupyter
+
+# brew install pybind11
